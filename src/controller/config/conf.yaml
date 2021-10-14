@@ -1,0 +1,11 @@
+# Controller Config
+
+## action config
+log_actions: True
+use_arduino: False
+arduino_COM: /dev/ttyACM0
+verbose: True
+
+## node config
+# rate: 10 # Hz
+queue_size: 10
